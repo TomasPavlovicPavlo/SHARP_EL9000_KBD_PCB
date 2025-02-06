@@ -1,6 +1,6 @@
 # New keyboard flex PCB for SHARP EL-9000 scientific calculator
 
-Here you can download manufacturing data for keyboard flex PCB for SHARP EL-9000
+From folder [Gerber](gerber) you can download manufacturing data for keyboard flex PCB for SHARP EL-9000
 
 <img src="img/SHARP_EL9000.jpg" height="400" />
 
